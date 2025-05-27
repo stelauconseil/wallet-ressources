@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "CNIe",
-    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/Card_1.png",
+    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/card_cnie.png",
     "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/martin_256.png",
     "name": "ELOISE-MARTIN",
     "firstName": "Maëlys-Gaëlle, Marie",
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "title": "Carte Grise",
-    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/Card_2.png",
+    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/card_carte_grise.png",
     "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/derville_256.png",
     "name": "LEGER-DERVILLE",
     "firstName": "Benoit, Henri, Marie, Guénolée",
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "title": "Permis de Conduire",
-    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/Card_3.png",
+    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/card_dl.png",
     "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/vairlin_256.png",
     "name": "LEGER",
     "firstName": "Benoit",
@@ -45,7 +45,7 @@
   {
     "id": 4,
     "title": "Carte de Membre France Identité",
-    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/Card_4.png",
+    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/card_fi.png",
     "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/helene_256.png",
     "name": "LEGER",
     "firstName": "Benoit",
@@ -60,7 +60,7 @@
   {
     "id": 5,
     "title": "Permis Bateau",
-    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/Card_4.png",
+    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/card_cnie.png",
     "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/alain_256.png",
     "name": "LEGER",
     "firstName": "Benoit",
