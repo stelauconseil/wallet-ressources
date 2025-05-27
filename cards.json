@@ -2,8 +2,8 @@
   {
     "id": 1,
     "title": "CNIe",
-    "imageUrl": "http://192.168.1.114:3000/cards/Card_1.png",
-    "photoUrl": "http://192.168.1.114:3000/photos/martin_256.png",
+    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/Card_1.png",
+    "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/martin_256.png",
     "name": "MARTIN",
     "firstName": "Maëlys-Gaëlle, Marie",
     "canNumber": "384213",
@@ -16,8 +16,8 @@
   {
     "id": 2,
     "title": "Carte Grise",
-    "imageUrl": "http://192.168.1.114:3000/cards/Card_2.png",
-    "photoUrl": "http://192.168.1.114:3000/photos/derville_256.png",
+    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/Card_2.png",
+    "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/derville_256.png",
     "name": "LEGER-DERVILLE",
     "firstName": "Benoit, Henri, Marie, Guénolée",
     "canNumber": "762298",
@@ -30,8 +30,8 @@
   {
     "id": 3,
     "title": "Permis de Conduire",
-    "imageUrl": "http://192.168.1.114:3000/cards/Card_3.png",
-    "photoUrl": "http://192.168.1.114:3000/photos/vairlin_256.png",
+    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/Card_3.png",
+    "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/vairlin_256.png",
     "name": "LEGER",
     "firstName": "Benoit",
     "pseudo": "Benoit LEGER-HUGOT DERVILLE",
@@ -45,8 +45,8 @@
   {
     "id": 4,
     "title": "Permis de Conduire",
-    "imageUrl": "http://192.168.1.114:3000/cards/Card_4.png",
-    "photoUrl": "http://192.168.1.114:3000/photos/martin_256.png",
+    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/Card_4.png",
+    "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/martin_256.png",
     "name": "LEGER",
     "firstName": "Benoit",
     "pseudo": "Benoit LEGER-HUGOT DERVILLE",
