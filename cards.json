@@ -1,53 +1,49 @@
 [
   {
-    "id": 2,
-    "title": "Carte Grise",
-    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/card_carte_grise.png",
-    "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/derville_256.png",
-    "name": "LEGER-DERVILLE",
-    "firstName": "Benoit, Henri, Marie, Guénolée",
-    "canNumber": "762298",
-    "birthDate": "02/06/1968",
+    "id": 1,
+    "title": "CNIe",
+    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/card_cnie.png",
+    "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/martin_256.png",
+    "name": "ELOISE-MARTIN",
+    "firstName": "Maëlys-Gaëlle, Marie",
+    "canNumber": "384213",
+    "birthDate": "13 07 1990",
     "city": "PARIS",
     "nationality": "FRA",
     "expiryDate": "11 02 2030",
-    "documentNumber": "U2MTLO8YUI"
+    "documentNumber": "X4RTBPFW4",
+    "options": [
+      {
+        "id": "scan_qr",
+        "title": "Scanner un QR Code",
+        "subtitle": "Commencer une démarche",
+        "iconName": "qr-code-outline",
+        "color": "#7B68EE",
+        "action": "SCAN_QR"
+      },
+      {
+        "id": "create_document",
+        "title": "Créer un justificatif d'identité",
+        "subtitle": "Remplacer vos photocopies",
+        "iconName": "document-outline",
+        "color": "#7B68EE",
+        "action": "CREATE_DOC"
+      },
+      {
+        "id": "share_data",
+        "title": "Partager vos données",
+        "subtitle": "En face à face",
+        "iconName": "share-outline",
+        "color": "#7B68EE",
+        "action": "SHARE_DATA"
+      }
+    ]
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "Permis de Conduire",
     "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/card_dl.png",
     "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/vairlin_256.png",
-    "name": "LEGER",
-    "firstName": "Benoit",
-    "pseudo": "Benoit LEGER-HUGOT DERVILLE",
-    "birthDate": "02/06/1968",
-    "city": "PARIS",
-    "nationality": "FRA",
-    "expiryDate": "11 02 2030",
-    "documentNumber": "U2MTLO8YUI",
-    "canNumber": "762298"
-  },
-  {
-    "id": 4,
-    "title": "Carte de Membre France Identité",
-    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/card_fi.png",
-    "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/helene_256.png",
-    "name": "LEGER",
-    "firstName": "Benoit",
-    "pseudo": "Benoit LEGER-HUGOT DERVILLE",
-    "birthDate": "02/06/1968",
-    "city": "PARIS",
-    "nationality": "FRA",
-    "expiryDate": "11 02 2030",
-    "documentNumber": "U2MTLO8YUI",
-    "canNumber": "762298"
-  },
-  {
-    "id": 5,
-    "title": "Permis Bateau",
-    "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/card_bateau.png",
-    "photoUrl": "https://stelauconseil.github.io/wallet-ressources/photos/alain_256.png",
     "name": "LEGER",
     "firstName": "Benoit",
     "pseudo": "Benoit LEGER-HUGOT DERVILLE",
