@@ -26,6 +26,32 @@
     "nationality": "FRA",
     "expiryDate": "11 02 2030",
     "documentNumber": "U2MTLO8YUI",
-    "canNumber": "762298"
+    "canNumber": "762298",
+    "options": [
+      {
+        "id": "scan_qr",
+        "title": "Scanner un QR Code",
+        "subtitle": "Commencer une démarche",
+        "iconName": "qr-code-outline",
+        "color": "#7B68EE",
+        "action": "SCAN_QR"
+      },
+      {
+        "id": "create_document",
+        "title": "Créer un justificatif d'identité",
+        "subtitle": "Remplacer vos photocopies",
+        "iconName": "document-outline",
+        "color": "#7B68EE",
+        "action": "CREATE_DOC"
+      },
+      {
+        "id": "share_data",
+        "title": "Partager vos données",
+        "subtitle": "En face à face",
+        "iconName": "share-outline",
+        "color": "#7B68EE",
+        "action": "SHARE_DATA"
+      }
+    ]
   }
 ]
