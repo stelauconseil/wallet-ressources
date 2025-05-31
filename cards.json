@@ -11,7 +11,9 @@
     "city": "PARIS",
     "nationality": "FRA",
     "expiryDate": "11 02 2030",
-    "documentNumber": "X4RTBPFW4"
+    "documentNumber": "X4RTBPFW4",
+    "showQrCode": false,
+    "showCanvasBadge": false
   },
   {
     "id": 2,
@@ -27,6 +29,8 @@
     "expiryDate": "11 02 2030",
     "documentNumber": "U2MTLO8YUI",
     "canNumber": "762298",
+    "showQrCode": true,
+    "showCanvasBadge": true,
     "options": [
       {
         "id": "scan_qr",
