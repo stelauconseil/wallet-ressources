@@ -17,7 +17,7 @@
   "options": [
     {
       "id": "create_document",
-      "title": "Créer un justificatif d'identité",
+      "title": "Créer un justificatif",
       "subtitle": "Remplacer vos photocopies",
       "iconName": "document-outline",
       "color": "#7B68EE",
