@@ -18,14 +18,6 @@
       "iconName": "document-outline",
       "color": "#7B68EE",
       "action": "CREATE_DOC"
-    },
-    {
-      "id": "share_data",
-      "title": "Partager vos données",
-      "subtitle": "En face à face",
-      "iconName": "share-outline",
-      "color": "#7B68EE",
-      "action": "SHARE_DATA"
     }
   ]
 }
