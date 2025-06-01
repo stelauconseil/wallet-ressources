@@ -6,13 +6,13 @@
   "QRcodeValue": "self",
   "showCanvasBadge": true,
   "mappingRECTO": {
-    "L1C1": "Nom - ligne 1",
+    "L1C1": "Nom",
     "L1C2": "Nom - ligne 2",
     "L2C1": "Prénom",
     "L3C1": "Date de naissance",
     "L3C2": "Date d'émission",
-    "L4C1": "Numéro de titre",
-    "L4C2": "Numéro de permis",
+    "L4C1": "N° de titre",
+    "L4C2": "N° de permis",
     "L5C1": "Option Côtière - Date d'effet"
   },
   "options": [
