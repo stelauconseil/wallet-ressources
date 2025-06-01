@@ -3,6 +3,7 @@
   "title": "Permis Bateau",
   "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/card_bateau.png",
   "showQrCode": true,
+  "QRcodeValue": "self",
   "showCanvasBadge": true,
   "mappingRECTO": {
     "L1C1": "Nom - ligne 1",
