@@ -6,7 +6,7 @@
   "QRcodeValue": "self",
   "showCanvasBadge": true,
   "mappingRECTO": {
-    "L1C1": "Nom",
+    "L1C1": "Nom - ligne 1",
     "L1C2": "Nom - ligne 2",
     "L2C1": "Prénom",
     "L3C1": "Date de naissance",
