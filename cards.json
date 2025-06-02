@@ -13,25 +13,7 @@
     "expiryDate": "11 02 2030",
     "documentNumber": "X4RTBPFW4",
     "showQrCode": false,
-    "showCanvasBadge": false,
-    "options": [
-      {
-        "id": "prove_document",
-        "title": "Prouver la valididé",
-        "subtitle": "En face à face",
-        "iconName": "document-outline",
-        "color": "#7B68EE",
-        "action": "PROVE_DOC"
-      },
-      {
-        "id": "share_data",
-        "title": "Partager vos données",
-        "subtitle": "En face à face",
-        "iconName": "share-outline",
-        "color": "#7B68EE",
-        "action": "SHARE_DATA"
-      }
-    ]
+    "showCanvasBadge": false
   },
   {
     "id": 2,
