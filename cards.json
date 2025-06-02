@@ -13,7 +13,25 @@
     "expiryDate": "11 02 2030",
     "documentNumber": "X4RTBPFW4",
     "showQrCode": false,
-    "showCanvasBadge": false
+    "showCanvasBadge": false,
+    "options": [
+      {
+        "id": "prove_document",
+        "title": "Prouver la valididé",
+        "subtitle": "En face à face",
+        "iconName": "document-outline",
+        "color": "#7B68EE",
+        "action": "PROVE_DOC"
+      },
+      {
+        "id": "share_data",
+        "title": "Partager vos données",
+        "subtitle": "En face à face",
+        "iconName": "share-outline",
+        "color": "#7B68EE",
+        "action": "SHARE_DATA"
+      }
+    ]
   },
   {
     "id": 2,
@@ -30,6 +48,7 @@
     "documentNumber": "U2MTLO8YUI",
     "canNumber": "762298",
     "showQrCode": true,
+    "QRcodeValue": "org.iso.18013.5.1.mDL",
     "showCanvasBadge": true,
     "options": [
       {
@@ -47,6 +66,14 @@
         "iconName": "document-outline",
         "color": "#7B68EE",
         "action": "CREATE_DOC"
+      },
+      {
+        "id": "share_data",
+        "title": "Partager vos données",
+        "subtitle": "En face à face",
+        "iconName": "share-outline",
+        "color": "#7B68EE",
+        "action": "SHARE_DATA"
       }
     ]
   }
