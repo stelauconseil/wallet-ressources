@@ -5,6 +5,28 @@
   "showQrCode": true,
   "QRcodeValue": "self",
   "showCanvasBadge": true,
+  "validation": {
+    "fields": [
+      {
+        "qrCodeField": "Nom - ligne 1",
+        "cnieField": "name",
+        "required": true,
+        "description": "Nom de famille"
+      },
+      {
+        "qrCodeField": "Prénom",
+        "cnieField": "firstName",
+        "required": true,
+        "description": "Prénom"
+      },
+      {
+        "qrCodeField": "Date de naissance",
+        "cnieField": "birthDate",
+        "required": true,
+        "description": "Date de naissance (optionnelle)"
+      }
+    ]
+  },
   "mappingRECTO": {
     "L1C1": "Nom - ligne 1",
     "L1C2": "Nom - ligne 2",
