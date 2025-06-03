@@ -18,12 +18,6 @@
         "cnieField": "firstName",
         "required": true,
         "description": "Prénom"
-      },
-      {
-        "qrCodeField": "Date de naissance",
-        "cnieField": "birthDate",
-        "required": true,
-        "description": "Date de naissance (optionnelle)"
       }
     ]
   },
