@@ -1,0 +1,58 @@
+{
+  "id": 406,
+  "title": "Membre France identité",
+  "imageUrl": "https://stelauconseil.github.io/wallet-ressources/cards/card_fi.png",
+  "showQrCode": true,
+  "QRcodeValue": "self",
+  "showCanvasBadge": true,
+  "validation": {
+    "fields": [
+      {
+        "qrCodeField": "Nom",
+        "cnieField": "name",
+        "required": true,
+        "description": "Nom de famille"
+      },
+      {
+        "qrCodeField": "Prénom",
+        "cnieField": "firstName",
+        "required": true,
+        "description": "Prénom"
+      },
+      {
+        "qrCodeField": "Date de naissance",
+        "cnieField": "birthDate",
+        "required": true,
+        "description": "Date de naissance (optionnelle)"
+      }
+    ]
+  },
+  "mappingRECTO": {
+    "L1C1": "Nom",
+    "L1C2": "Fonction",
+    "L2C1": "Prénom",
+    "L3C1": "Date de naissance",
+    "L3C2": "email",
+    "L4C1": "Numéro de titre",
+    "L4C2": "Rôle",
+    "L5C1": "Date d'émission"
+  },
+  "options": [
+    {
+      "id": "create_document",
+      "title": "Créer un justificatif",
+      "subtitle": "Remplacer vos photocopies",
+      "iconName": "document-outline",
+      "color": "#7B68EE",
+      "action": "CREATE_DOC"
+    },
+    {
+      "id": "share_data",
+      "title": "Partager vos données",
+      "subtitle": "En face à face",
+      "iconName": "share-outline",
+      "color": "#7B68EE",
+      "action": "SHARE_DATA"
+    }
+  ]
+}
